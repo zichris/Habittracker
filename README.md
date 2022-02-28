@@ -18,13 +18,13 @@ Allows you to create new habits. Choose a name (the field cannot be blank and th
 (2.3) My habits
 Displays detailed information about your habits. Consists of 9 submenus:
 
-(2.3.1) Habit details
-Provides further information about a chosen habit. Select the name from the list and click "Ok!".
+  (2.3.1) Habit details
+  Provides further information about a chosen habit. Select the name from the list and click "Ok!".
 
-(2.3.2) View all habits
-Provides a list of either all habits that are currently saved in the database, or only habits with a certain periodicity. Select "all" or a periodicity and click on "Show!" to display the list.
+  (2.3.2) View all habits
+  Provides a list of either all habits that are currently saved in the database, or only habits with a certain periodicity. Select "all" or a periodicity and click on    "Show!" to display the list.
 
-(2.3.3) All other buttons will display a list of your newest, oldest etc. habits.
+  (2.3.3) All other buttons will display a list of your newest, oldest etc. habits.
 
 (2.4) Delete habit
 Deletes one of your habits. Select one from the list and click on "Delete this habit". You have to confirm your action before the habit will actually be deleted.
