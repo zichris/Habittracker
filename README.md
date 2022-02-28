@@ -4,7 +4,7 @@ Habit tracking app for the IU course DLBDSOOFPP01
 Habit tracking app - how to use
 
 (1) Installation
-Unzip the files to a directory of your choice, then double click on main.exe or main.py
+Download main.py or main.exe to a directory of your choice, and execute.
 
 (2) Usage
 This app will help you keeping track of your habits. It is controlled via keyboard and mouse. The individual menus are described in the following:
